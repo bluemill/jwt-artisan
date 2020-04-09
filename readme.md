@@ -1,6 +1,6 @@
 # JWT Artisan
 
-[![Build Status](https://travis-ci.org/generationtux/jwt-artisan.svg?branch=master)](https://travis-ci.org/generationtux/jwt-artisan)
+**Note: forked from https://github.com/generationtux/jwt-artisan and updated to work with Laravel >= 6 and PHP >= 7.2**
 
 ## Token auth for Laravel and Lumen web artisans
 
